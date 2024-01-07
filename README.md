@@ -1,6 +1,8 @@
 # Palindrome_Checker
 Palindrome Checker
+
 -A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward ignoring punctuation, case, and spacing.
+
 -A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing (e.g. mom, dad, racecar, madam). A palindrome checker checks if a string is a palindrome or not.
 
 This application asks a user for a phrase or a word. It checks the user input, runs palindrome check on it, and tells user whether the entered string is a palindrome or not.
@@ -64,7 +66,7 @@ FreeCodeCamp Palindrome Checker - JavaScript Algorithms and Data Structures Proj
 
 -We'll also pass strings with special symbols, such as "2A33a2", "2A3 3a2", and "2_A33#A2".
 
-##Test cases
+## Test cases
 palindrome("eye") should return a boolean.
 
 palindrome("eye") should return true.
