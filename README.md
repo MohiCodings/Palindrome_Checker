@@ -9,6 +9,8 @@ This application asks a user for a phrase or a word. It checks the user input, r
 
 ## Demo
 
+https://mohicodings.github.io/Palindrome_Checker/
+
 
 ## Getting Started  🖥️
 To use weather app, follow these steps:
@@ -28,7 +30,7 @@ Open the index.html file in a web browser.
 - HTML
 - CSS
 
-  ## Some of the famous palindromes 🌟
+ ## Some of the famous palindromes 🌟
  - A Man, A Plan, A Canal-Panama!
  -  Madam In Eden, I’m Adam
  -  Dammit, I’m Mad!
@@ -55,7 +57,7 @@ This project was developed as an Certification task for FreeCodeCamp- Javascript
 
 
 
-# About Freecodecamp Certification 
+## About Freecodecamp Certification 
 FreeCodeCamp Palindrome Checker - JavaScript Algorithms and Data Structures Projects (https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/palindrome-checker)
 
 -Return true if the given string is a palindrome. Otherwise, return false. A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
