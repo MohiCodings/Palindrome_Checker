@@ -13,7 +13,7 @@ https://mohicodings.github.io/Palindrome_Checker/
 
 
 ## Getting Started  🖥️
-To use weather app, follow these steps:
+To use Palindrome Checker , follow these steps:
 
 Download or copy the code from this repository.
 
